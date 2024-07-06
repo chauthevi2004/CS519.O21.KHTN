@@ -43,7 +43,7 @@ This project focuses on improving healthcare diagnosis and treatment through the
 
 - **Proposal**: [Proposal.pdf](./Proposal.pdf)
 - **Poster**: [Poster.pdf](./Poster.pdf)
-- **Slides**: [Slides.pdf](./Slides.pdf)
+- **Slides**: [Slides.pdf](./Slide.pdf)
 - **YouTube Video**: [Project Video](https://youtu.be/I3Ne9ly2sJY)
 - **GitHub Repository**: [Project Repository](https://github.com/chauthevi2004/CS519.O21.KHTN)
 
