@@ -1,4 +1,7 @@
 ### README
+<p align="center">
+  <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
+<h1 align="center"><b>CS519.O21.KHTN - Scientific Research Methodology</b></h1>
 
 # Project Title: ÁP DỤNG TRÍ TUỆ NHÂN TẠO CÓ THỂ GIẢI THÍCH VÀ THÍCH ỨNG MIỀN CHO CHẨN ĐOÁN VÀ ĐIỀU TRỊ TRONG HỆ THỐNG Y TẾ LIÊN KẾT
 
@@ -48,8 +51,9 @@ This project focuses on improving healthcare diagnosis and treatment through the
 - **GitHub Repository**: [Project Repository](https://github.com/chauthevi2004/CS519.O21.KHTN)
 
 ## Author Information
-- **Name**: Châu Thế Vĩ
+- **Name**: Châu Thế Vĩ - 22521653@gm.uit.edu.vn
 - **Student ID**: 22521653
+- **Lecturer**: Associate Professor Dr. Lê Đình Duy - duyld@uit.edu.vn
 - **Class**: CS519.O21.KHTN
 
 ## References
